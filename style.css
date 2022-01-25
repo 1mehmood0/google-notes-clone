@@ -1,0 +1,9 @@
+.hidden{
+    display:none
+}
+.main{
+    background-color: antiquewhite;
+    width: 50;
+    height: 50;
+    color: black;
+}
